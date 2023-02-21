@@ -65,4 +65,5 @@ rawdbs:
                       - name: Biswajeet Basumatary
                         email: bbasumatary@slb.com
                         role: Bootcamp 14 Administrator
+
                         send-notification: false
